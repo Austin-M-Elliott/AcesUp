@@ -1,0 +1,1 @@
+Aces Up is a solitaire-esque card game where higher cards of the same suit allow the player to remove the lower card showing. This python script simulates games in order to determine the liklihood of winning.
